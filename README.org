@@ -1,3 +1,6 @@
-Elisp 入门
+#+TITLE:Elisp入门
+#+OPTIONS: toc:2
+#+STARTUP: indent
+#+STARTUP: content
 
 [[file:第一章——列表处理.org][第一章——列表处理]]
